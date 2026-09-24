@@ -40,7 +40,7 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
-*.sql
+
 /scripts
 **/stock-check/
 **/stock-check.ts
